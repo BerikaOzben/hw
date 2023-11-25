@@ -1,3 +1,8 @@
+# ".gitignore" dosyası, Git tarafından izlenmemesi veya depolanmaması gereken dosyaları ve dizinleri belirtir.
+# Proje dosyalarını temiz ve düzenli tutmak, gereksiz dosyaların depolanmasını önlemek ve özel bilgileri içeren dosyaların GitHub'a yüklenmesini engellemek için kullanılır.
+# Örneğin, derleme çıktıları, geçici dosyalar veya belirli IDE'lerin oluşturduğu dosyalar, genellikle .gitignore dosyasına eklenir.
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
